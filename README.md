@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 
-    Programming Languages: None (Currently learning Kotlin)
-    Hobbies: Drawing, Photoshoping and Videoediting
-    I can speak: Ukrainian 🇺🇦 | Polish 🇵🇱 | English 🇬🇧 | Russian 🇷🇺 | A bit of German 🇩🇪 
-
+    Programming Languages: Kotlin, Java
+    Language spoken by me: Ukrainian 🇺🇦 | Polish 🇵🇱 | English 🇬🇧 | Russian 🇷🇺 | A bit of German 🇩🇪 
+    Reach me: Telegram: t.me/durriix, Instagram: @durriix 
 <!--
 **durriix/durriix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
